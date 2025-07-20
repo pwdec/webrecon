@@ -34,4 +34,4 @@ Web tarayıcıdan `http://localhost:5000` adresine giderek kullanabilirsiniz.
 
 ## Yapım
 
-Hazırlayan: [Bug Bounty Recon Tool by OpenAI ChatGPT]
+Hazırlayan: Pwdec
